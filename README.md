@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shivam from Vadodara 
 - 👀 I’m interested in programming in python and c++
-- 🌱 I’m currently learning python django, c++ courses and JS.
+- 🌱 I’m currently learning python , c++, JS and MERN stack.
 - 📫 How to reach me :- Mail me on Shivamxox5@gmail.com
